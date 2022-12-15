@@ -1,7 +1,7 @@
 # Airbnb
 
 ## Background and Overview
-Airbnb have gained traction as people want a personalized and private vacation experience. As someone who has frequently utilized Airbnb with friends and family, I was interested in the data and trends surrounding the program. I've conducted analysis on Airbnb data from Los Angeles in 2021 to answer questions about the business.
+Airbnb have gained traction as people want a personalized and private vacation experience. As someone who has frequently utilized Airbnb with friends and family, I was interested in the data and trends surrounding the program. I've conducted analysis on Airbnb data from Los Angeles in 2021 to answer questions about the business. In addition, as a resident of Los Angeles myself, I'm interested in what the market looks like and could use this information to potentially invest in Airbnb properties.
 
 #### Questions to Answer
 1. How do variables such as location, the number of bedrooms offered, and the minimun allowed nunber of nights affect the price?
