@@ -4,7 +4,7 @@
 
 
 ## Background and Overview
-Airbnb have gained traction as people want a personalized and private vacation experience. As someone who has frequently utilized Airbnb with friends and family, I was interested in the data and trends surrounding the program. I've conducted analysis on Airbnb data from Los Angeles in 2021, aquired by Kaggle, to answer questions about the business. In addition, as a resident of Los Angeles myself, I'm interested in what the market looks like and could use this information to potentially invest in Airbnb properties.
+Airbnb have gained traction as people want a personalized and private vacation experience. As someone who has frequently utilized Airbnb with friends and family, I was interested in the data and trends surrounding the program. I've conducted analysis on Airbnb data from Los Angeles in 2021, to answer questions about the business. In addition, as a resident of Los Angeles myself, I'm interested in what the market looks like and could use this information to potentially invest in Airbnb properties.
 
 #### Questions to Answer
 1. How do variables such as location, the number of bedrooms offered, and the minimun allowed nunber of nights affect the price?
@@ -12,6 +12,9 @@ Airbnb have gained traction as people want a personalized and private vacation e
 3. Which room type is the most offered?
 4. What is the average number minimum nights across Airbnbs? maximum?
 5. What is the average price per room?
+
+## Data Exploration + Analysis
+At first I was unsure what topic I wanted to tackle for the project. I searched for interesting datasets on google and Kaggle, and would start cleaning a few of them as well until I realized that it didn't offer me the information I ultimately needed. In the end, I used data from [Inside Airbnb](http://insideairbnb.com/get-the-data/) which contained the necessary information to conduct my analysis. After cleaning the dataset on pandas and filtering out unnecessary columns, I could then conduct my machine learning analysis. I also used Tableau to create visuals to better understand the overall data.
 
 
 ## Visualizations + Results
