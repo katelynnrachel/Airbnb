@@ -1,4 +1,7 @@
-# Airbnb
+# Airbnb Analysis
+
+<img width="333" alt="Screen Shot 2022-12-15 at 10 32 51 AM" src="https://user-images.githubusercontent.com/107594280/207939987-69d7306b-7537-44f6-90ab-aab7f0a1dc21.png">
+
 
 ## Background and Overview
 Airbnb have gained traction as people want a personalized and private vacation experience. As someone who has frequently utilized Airbnb with friends and family, I was interested in the data and trends surrounding the program. I've conducted analysis on Airbnb data from Los Angeles in 2021 to answer questions about the business. In addition, as a resident of Los Angeles myself, I'm interested in what the market looks like and could use this information to potentially invest in Airbnb properties.
