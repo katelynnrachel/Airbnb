@@ -4,10 +4,11 @@
 Airbnb have gained traction as people want a personalized and private vacation experience. As someone who has frequently utilized Airbnb with friends and family, I was interested in the data and trends surrounding the program. I've conducted analysis on Airbnb data from Los Angeles in 2021 to answer questions about the business.
 
 #### Questions to Answer
-1. How do variables such as location, the number of bedrooms offered, and the minimun allowed nunber of nights affect the price?*
-2. Which room type is the most offered?
-3. What is the average number minimum nights across Airbnbs? maximum?
-4. What is the average price per room?
+1. How do variables such as location, the number of bedrooms offered, and the minimun allowed nunber of nights affect the price?
+2. Can we use those variables to predict what the price of an Airbnb should be?
+3. Which room type is the most offered?
+4. What is the average number minimum nights across Airbnbs? maximum?
+5. What is the average price per room?
 
 
 ## Visualizations + Results
@@ -40,5 +41,5 @@ I decided to use a DecisionTreeRegressor model to see if features such as latitu
 - Furthermore, this graph also shows the disparity between the model and the correct data.
 
 ## Summary and Future Use
-In the future, I would like to determine whether there is a differeht model that could better suit my needs for predicting the Airbnb data. Throughout the process, I had attempted to run different models such as a logistic regression or classification model, but ultimately decided to run the decision tree. I would also like to include categorical data from the data source by converting them into dummy variables. 
+As we can see, this model was not helpful in predicting accurate data. In the future, with more time, I would like to run other machine learning models such as a Random Forrest algorithm to test the model again which will work against any "weak learners."  I would also like to include categorical data from the data source by converting them into dummy variables. 
 
