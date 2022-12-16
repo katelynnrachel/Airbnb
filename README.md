@@ -30,7 +30,7 @@ At first I was unsure what topic I wanted to tackle for the project. I searched 
  <img width="265" alt="Screen Shot 2022-12-12 at 6 16 00 AM" src="https://user-images.githubusercontent.com/107594280/207067804-5e669fd5-23ab-469e-bc96-0d044842f630.png"><img width="335" alt="Screen Shot 2022-12-12 at 6 16 33 AM" src="https://user-images.githubusercontent.com/107594280/207067923-ea0b6547-74d8-4ba5-b3a7-84f8378e007a.png"><img width="348" alt="Screen Shot 2022-12-12 at 6 16 13 AM" src="https://user-images.githubusercontent.com/107594280/207067857-f0c08db3-c983-4847-8b76-a5c76be2875f.png">
 
 ## Machine Learning
-I decided to use a DecisionTreeRegressor model to see if features such as latitude, longitude, accommodates, bedrooms, number of beds, minimum_nights, maximum_nights, number_of_reviews, review_scores_rating could predict the price of a listing.
+I decided to use a DecisionTreeRegressor model to see if features such as latitude, longitude, accommodates, bedrooms, number of beds, minimum_nights, maximum_nights, number_of_reviews, review_scores_rating could predict the price of a listing. Decision Trees pose many benefits over other models in that it is a simpler and quick way to conduct classification or regression problems. However, the model is also prone to "overfitting" which can increase error. It is also harder to use with continuous variables and can be sensitive to changes.
 
 ## Machine Learning Results
 <img width="304" alt="Screen Shot 2022-12-12 at 7 13 51 AM" src="https://user-images.githubusercontent.com/107594280/207081550-2706cfff-d78c-4c61-af91-4d246fe0c8e4.png">
